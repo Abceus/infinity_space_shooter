@@ -1,4 +1,7 @@
 {
 	"name": "infinity_space_shooter",
-	"description": "Roguelike space game"
+	"description": "Roguelike space game",
+	"dependencies": {
+		"bindbc-glfw": "~>0.13.0"
+	}
 }

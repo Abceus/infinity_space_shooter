@@ -1,3 +1,5 @@
 infinity_space_shooter.exe
 .vscode
 .dub
+dub.selections.json
+glfw3.dll
